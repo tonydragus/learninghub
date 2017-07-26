@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92559d4c5b733af45acb20c743d49964
+timeCreated: 1489223692
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bree Serif
+  fontNames:
+  - Bree Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
